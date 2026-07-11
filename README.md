@@ -274,10 +274,11 @@ Durante o desenvolvimento foram gerados:
 
 ![Fontes](image.png)
 
-- Mapa Mental
-- Guia de Estudos
-- Quiz
-- Glossário
+## 🧠 Mapa Mental
+
+![Mapa Mental](mapa-mental.png)
+
+
 
 > As imagens desses recursos podem ser encontradas na pasta **/imagens** deste repositório.
 
