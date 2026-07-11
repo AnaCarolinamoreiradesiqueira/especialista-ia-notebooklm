@@ -270,7 +270,10 @@ Durante este projeto foi possível compreender que:
 
 Durante o desenvolvimento foram gerados:
 
-- Resumos automáticos
+## 📸 Fontes adicionadas
+
+![Fontes](image.png)
+
 - Mapa Mental
 - Guia de Estudos
 - Quiz
