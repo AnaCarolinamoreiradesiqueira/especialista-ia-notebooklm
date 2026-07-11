@@ -274,6 +274,14 @@ Durante o desenvolvimento foram gerados:
 
 ![Fontes](image.png)
 
+
+
+## 💬 Conversa com o NotebookLM
+
+![Conversa](conversa.png)
+
+
+
 ## 🧠 Mapa Mental
 
 ![Mapa Mental](mapa-mental.png)
